@@ -2,7 +2,7 @@
 
 I'm a backend-focused software engineer with 3+ years of experience in Java and Spring Boot. I specialize in building secure, scalable, and well-tested backend systems.
 
-- 💼 Worked at **DXC Technology** on government sector projects involving border clearance systems, transactional logic, and audit-ready systems.
+- 💼 Worked at **DXC Technology** on government sector projects involving transactional logic, and audit-ready systems.
 - 🎮 Built backend systems for gaming platforms at **DeepSky**, focusing on real-time logic and reward mechanics.
 - 🔐 Experienced in **Spring Boot**, **MyBatis**, **JPA**, **JWT**, and **SQL optimization**.
 - 🧪 Advocate for **Test-Driven Development (TDD)** with strong unit and integration test practices.
