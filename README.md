@@ -15,7 +15,7 @@ Welcome to my Github, below is a directory I use to keep track of my projects
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Stay Tuned.. |
 | 🧩 Spring Boot + Angular | [Bookstore](https://github.com/deepakdmk/Spring-Boot-Angular-Projects/tree/main/Bookstore)  |
 | 🧩 Spring Boot + React  | [News Portal](https://github.com/deepakdmk/News-Portal) |
-| TypeScript | [Solana Sniper Bot V1](https://github.com/deepakdmk/solana-sniper-bot-v1) | [Solana Sniper Bot V2](https://github.com/deepakdmk/solana-sniper-bot-v2) |
+| TypeScript | [Solana Sniper Bot V1](https://github.com/deepakdmk/solana-sniper-bot-v1) , [Solana Sniper Bot V2](https://github.com/deepakdmk/solana-sniper-bot-v2) |
 
 ---
 
